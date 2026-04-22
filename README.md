@@ -113,8 +113,11 @@ For extreme heat events, additional event-based metrics are used:
 ---
 
 ## Key findings
-
 ### 1. Clear warming signal
+
+### projected warming from 2050 to 2080
+Manchester’s urban maximum temperature shows a clear warming trend from 2050 to 2080 under the high-emission scenario. Based on the best-model prediction series, the annual mean urban maximum temperature rises steadily across the late-century period, indicating that Manchester is expected to become not only warmer on average, but also more exposed to frequent and intense hot days by 2080.
+
 Manchester’s urban daily maximum temperature shows a strong upward trend under RCP 8.5. The ensemble analysis finds a warming rate of about **+0.039 °C per year**, and the forced signal emerges clearly from internal variability by around **2016**. 
 
 ### 2. Extreme heat becomes more frequent and more severe
@@ -122,6 +125,7 @@ The project finds that:
 - the hottest urban day rises from **38.1 °C** in the baseline period to about **42.7 °C** by the late-century period,
 - days above **25 °C** increase dramatically,
 - and the hottest **1% of days** warm faster than the mean. 
+
 This means future Manchester heat is not just warmer on average — it is also **more extreme and more unevenly distributed**.
 
 ### 3. Tree-based models perform best
@@ -143,6 +147,7 @@ The most important drivers are:
 - **solar radiation**
 
 These variables most strongly shape future urban maximum temperature, while snowfall declines and precipitation remains more variable and uncertain. 
+
 ---
 
 ## How to run
