@@ -1,7 +1,6 @@
 # Future Urban Heat in Greater Manchester: Warming Trends, Extreme Days and Machine Learning
 
 Project 2 for **EART60702**  **Group 1**  
-University of Manchester 2025
 
 ## Project overview
 
@@ -179,8 +178,7 @@ These outputs support both the scientific interpretation and the presentation of
 
 ---
 
-## Authors
+### Authors
+Shiyu Wang, Xinhao Zhou, Hanjin Yue
 
-**Group 1**  
-Shiyu Wang，Xinhao Zhou，Hanjin Yue
 ---
