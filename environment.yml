@@ -1,18 +1,23 @@
-name: manchester-temp-ml
+name: myenv
 channels:
   - conda-forge
   - defaults
-
 dependencies:
   - python=3.10
-  - numpy=1.26
-  - pandas=2.2
-  - matplotlib=3.8
-  - scikit-learn=1.4
-  - xgboost=2.0
-  - lightgbm=4.3
-  - h5py=3.11
-  - jupyterlab
-  - notebook
-  - ipykernel
+  - numpy
+  - pandas
+  - xarray
+  - netCDF4
+  - dask
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - jupyter
+  - nc-time-axis
   - pip
+  - pip:
+    - xgboost
+    - lightgbm
+    - tensorflow
+    - certifi
